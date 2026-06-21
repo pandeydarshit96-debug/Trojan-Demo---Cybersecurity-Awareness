@@ -1,0 +1,9 @@
+{
+  "name": "trojan-demo",
+  "version": "1.0.0",
+  "description": "Cybersecurity Awareness Demo - Trojan Concept",
+  "main": "first.js",
+  "scripts": {
+    "start": "node first.js"
+  }
+}
