@@ -4,6 +4,11 @@
   "description": "Cybersecurity Awareness Demo - Trojan Concept",
   "main": "first.js",
   "scripts": {
-    "start": "node first.js"
+    "start": "node first.js",
+    "server": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
   }
 }
